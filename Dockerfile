@@ -9,3 +9,4 @@ EXPOSE 8080
 # Start Tomcat when the container launches
 CMD ["catalina.sh", "run"]
 
+#END
